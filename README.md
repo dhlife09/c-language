@@ -1,1 +1,2 @@
-# c-language
+# C언어
+by 박도현
