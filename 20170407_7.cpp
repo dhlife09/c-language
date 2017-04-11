@@ -3,6 +3,6 @@
 int main(){
 	char word[32];
 	scanf("%s", word);
-	printf("ÀÔ·ÂÇÑ ´Ü¾î´Â %s ÀÔ´Ï´Ù.", word);
+	printf("ìž…ë ¥í•œ ë‹¨ì–´ëŠ” %s ìž…ë‹ˆë‹¤.", word);
 	return 0;
 }
