@@ -3,5 +3,5 @@
 int main(){
 	int y;
 	scanf("%d", &y);
-	printf("¿ÃÇØ´Â %d³â ÀÔ´Ï´Ù.", y);
+	printf("ì˜¬í•´ëŠ” %dë…„ ìž…ë‹ˆë‹¤.", y);
 }
