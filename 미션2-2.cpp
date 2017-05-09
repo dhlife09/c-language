@@ -6,6 +6,6 @@ int main() {
 	h = rs/3600;
 	m = rs%3600/60;
 	s = rs%60;
-	printf("%d½Ã %dºĞ %dÃÊ", h, m, s);
+	printf("%dì‹œ %dë¶„ %dì´ˆ", h, m, s);
 	return 0;
 }
